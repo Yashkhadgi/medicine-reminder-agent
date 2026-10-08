@@ -1,0 +1,8 @@
+streamlit>=1.50
+streamlit-autorefresh>=1.0.1
+pydantic>=2.5
+pandas>=2.0
+python-dotenv>=1.0
+requests>=2.31
+tzdata
+pymupdf>=1.24          # PDF prescription upload support
